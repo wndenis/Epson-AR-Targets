@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="troika" size="0.086000 0.053497" />
+    <ImageTarget name="AK" size="0.297000 0.210000" />
+    <ImageTarget name="water" size="0.297000 0.167062" />
+    <ImageTarget name="MIREA_Gerb_Black" size="0.050000 0.055275" />
+    <ImageTarget name="ArduinoMega" size="0.053300 0.025890" />
+  </Tracking>
+</QCARConfig>
